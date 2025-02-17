@@ -1,4 +1,4 @@
-### **📌 README.md – Adaptive Regime-Switching Crypto Price Prediction**  
+### **📌 Adaptive Regime-Switching Crypto Price Prediction**  
 
 ```markdown
 # Adaptive Regime-Switching Crypto Price Prediction 🚀  
