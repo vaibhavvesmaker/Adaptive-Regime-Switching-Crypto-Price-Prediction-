@@ -1,6 +1,6 @@
 ### **📌 Adaptive Regime-Switching Crypto Price Prediction**  
 
-```markdown
+```markdown 
 # Adaptive Regime-Switching Crypto Price Prediction 🚀  
 
 ## **Overview**  
