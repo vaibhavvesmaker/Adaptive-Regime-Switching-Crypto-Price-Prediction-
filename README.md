@@ -9,7 +9,7 @@ This project builds a **real-time crypto market prediction system** using a **CN
 ## **📊 Key Features**  
 ✅ **Market Regime Classification:** Predicts whether the market is bullish, bearish, or neutral.  
 ✅ **Time-Series Forecasting:** Short-term price predictions using **CNN-LSTM**.  
-✅ **Feature Engineering:**  
+✅ **Feature Engineering:**   
    - Technical indicators: RSI, MACD, Bollinger Bands, Fibonacci levels  
    - Volume & liquidity analysis: Bid-ask spread, VWAP  
    - Sentiment analysis: Twitter & Reddit NLP scores  
