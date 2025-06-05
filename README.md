@@ -2,7 +2,7 @@
 
 ```markdown 
 # Adaptive Regime-Switching Crypto Price Prediction 🚀   
- 
+  
 ## **Overview**  
 This project builds a **real-time crypto market prediction system** using a **CNN-LSTM hybrid model**. It forecasts **market regimes (bullish, bearish, neutral)** and predicts short-term price movements (**30m, 1h, 4h windows**) to enhance algorithmic trading strategies.  
 
